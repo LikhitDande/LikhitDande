@@ -3,10 +3,7 @@
 <h2 align="center">👋 Hey, I'm Dande Venkata Naga Likhit Royal</h2>
 <h4 align="center">💻 Python | Django | MySQL | ServiceNow | Data Analytics</h4>
 
-<p align="center">
-  <img src="https://github.com/LikhitDande/LikhitDande/blob/main/A_digital_graphic_banner_introduces_Dande_Venkata_.png" 
-       alt="GitHub Banner" width="100%"/>
-</p>
+
 
 ---
 
